@@ -1,5 +1,3 @@
-# OpenMage Amasty Shopby
-
 Adds PHP 8.2+ compatibility to Amasty's [Improved Layered Navigation](https://amasty.com/improved-layered-navigation.html) extension for Magento 1.
 
 Depends:
