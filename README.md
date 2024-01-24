@@ -11,6 +11,6 @@ Installation:
 3. Clear cache and reload
 
 Caveats:
-- You must already own the Improved Layered Navigation extension
+- You must already own the Improved Layered Navigation extension for Magento 1
 - This was written for OpenMage, not Magento 1
 - I don't work for Amasty
