@@ -6,7 +6,7 @@ Depends:
 Amasty_Shopby
 
 Installation:
-1. Copy the contents of the "Step 1" directory to the docroot
-2. Copy the contents of the "Step 2" directory to the docroot
+1. Copy the contents of the "step1" directory to the docroot
+2. Copy the contents of the "step2" directory to the docroot
 3. Clear cache and reload
 
