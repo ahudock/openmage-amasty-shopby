@@ -1,6 +1,6 @@
-# Amasty Shopby for PHP 8
+# Amasty Shopby for OpenMage / PHP 8
 
-Adds PHP 8.2+ compatibility to Amasty's [Improved Layered Navigation](https://amasty.com/improved-layered-navigation.html) extension for Magento 1.
+Adds OpenMage / PHP 8.2+ compatibility to Amasty's [Improved Layered Navigation](https://amasty.com/improved-layered-navigation.html) extension for Magento 1.
 
 Depends: 
 Amasty_Shopby
@@ -12,4 +12,5 @@ Installation:
 
 Caveats:
 - You must already own the Improved Layered Navigation extension
+- This was written for OpenMage, not Magento 1
 - I don't work for Amasty
