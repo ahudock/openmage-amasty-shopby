@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Threeprong_Shopby>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Amasty_Shopby />
+            </depends>
+        </Threeprong_Shopby>
+    </modules>
+</config>
