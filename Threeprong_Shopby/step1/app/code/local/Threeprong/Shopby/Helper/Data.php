@@ -1,5 +1,8 @@
 <?php
 /**
+* @copyright Amasty.
+*/ 
+/**
  * @package    Threeprong_Shopby
  * @author     Andy Hudock <ahudock@pm.me>
  *
