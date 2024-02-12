@@ -1,7 +1,12 @@
 <?php
 /**
- * @package    Threeprong_Shopby
+* @author Amasty Team
+* @copyright Copyright (c) 2008-2012 Amasty (http://www.amasty.com)
+* @package Amasty_Shopby
+*/
+/**
  * @author     Andy Hudock <ahudock@pm.me>
+ * @package    Threeprong_Shopby
  *
  * Adds PHP 8.2 compatibility to Amasty's Shopby module
  */
